@@ -1,0 +1,12 @@
+D:\C# HoangQuan\aa\aa\bin\Debug\aa.exe.config
+D:\C# HoangQuan\aa\aa\bin\Debug\aa.exe
+D:\C# HoangQuan\aa\aa\bin\Debug\aa.pdb
+D:\C# HoangQuan\aa\aa\obj\Debug\aa.csprojResolveAssemblyReference.cache
+D:\C# HoangQuan\aa\aa\obj\Debug\aa.exe
+D:\C# HoangQuan\aa\aa\obj\Debug\aa.pdb
+C:\Users\nguye\Desktop\aa\aa\bin\Debug\aa.exe.config
+C:\Users\nguye\Desktop\aa\aa\obj\Debug\aa.exe
+C:\Users\nguye\Desktop\aa\aa\obj\Debug\aa.pdb
+C:\Users\nguye\Desktop\aa\aa\bin\Debug\aa.exe
+C:\Users\nguye\Desktop\aa\aa\bin\Debug\aa.pdb
+C:\Users\nguye\Desktop\aa\aa\obj\Debug\aa.csprojResolveAssemblyReference.cache
